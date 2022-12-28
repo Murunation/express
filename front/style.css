@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+
+  padding: 0%;
+}
+
+#toyotaCars {
+  background-color: rgb(0, 76, 255);
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+  border: none;
+}
+
+#lexusCars {
+  background-color: rgb(0, 76, 255);
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+  border: none;
+}
+#buttn {
+  background-color: rgb(0, 76, 255);
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+  border: none;
+}
+header {
+  background-color: rgb(0, 76, 255);
+  color: white;
+  padding: 10px;
+  margin-bottom: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+.right-side {
+  border: 1px solid white;
+  border-radius: 21px;
+}
+.right-side:hover {
+  background-color: white;
+  transition: 0.5s;
+}
+.right-side a {
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+  padding: 10px;
+}
+footer {
+  background-color: rgb(0, 76, 255);
+  color: white;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0%;
+}
